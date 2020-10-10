@@ -1,2 +1,5 @@
-# ajay
-Codeing is like playing game ,so play with it
+# code
+# letter is a vowel or not
+
+
+
